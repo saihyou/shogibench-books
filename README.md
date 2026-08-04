@@ -40,6 +40,12 @@ json の sha も更新してください。**
 作成に使ったスクリプトは [nnue-scripts](https://github.com/saihyou/nnue-scripts)
 の `openings/` にあります。
 
+## ライセンス
+
+このリポジトリの局面集は [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+で公開しています (`LICENSE`)。表示は不要ですが、元になった棋譜は floodgate の
+対局です。
+
 ## 改行コードは LF にすること
 
 ワーカーはファイルを**テキストモードで読んで** sha256 を計算します。CRLF の
